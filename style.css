@@ -1,0 +1,45 @@
+body{
+ width: 100%;
+height: auto;
+}
+
+.main-seg {
+    width: 100%;
+    height: auto;
+   margin: 8em 8em;
+   padding-bottom: 5em;
+
+}
+
+.item{
+    max-width: 60%;
+ 
+
+}
+
+hr{
+    width: 65%;
+    margin: 0;
+}
+
+.navbar{
+    /* display: flex; */
+    background-color: black;
+    padding: 1em 1em;
+    display: none;
+
+    justify-content: space-between;
+}
+
+.nav-btn {
+    padding: .7em 1.5em;
+    outline: none;
+    border: none;
+}
+
+.nav-head {
+    color: white;
+}
+
+
+
